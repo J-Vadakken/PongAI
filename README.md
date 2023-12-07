@@ -5,7 +5,10 @@ Created in 2023 for Pong Ai tournament ESC180
 
 Won second place
 
-Only contains the defence by predicting where the ball will land
+The AI predicts where the ball will land and moves the paddle there.
+There is no real offence.
+
+
 # File Information
 pong_ai.py contains the submitted code
 
